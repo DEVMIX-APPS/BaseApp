@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BaseApp</string>
+
+    <string name="customactivityoncrash_error_activity_error_occurred_explanation">Ocorreu um erro inesperado.\nDesculpe pela inconveniência.</string>
+    <string name="customactivityoncrash_error_activity_unknown_exception">Unknown exception</string>
+    <string name="customactivityoncrash_error_activity_restart_app">Reiniciar o aplicativo</string>
+    <string name="customactivityoncrash_error_activity_close_app">Fechar o aplicativo</string>
+    <string name="customactivityoncrash_error_activity_error_details">Detalhes do erro</string>
+    <string name="customactivityoncrash_error_activity_error_details_title">Detalhes do erro</string>
+    <string name="customactivityoncrash_error_activity_error_details_close">Fechar</string>
+</resources>
